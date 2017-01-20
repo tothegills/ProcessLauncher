@@ -1,0 +1,11 @@
+F:\Experiments\PowerShellDebug\PowerShellDebug\bin\Debug\ProcessLauncher.exe.config
+F:\Experiments\PowerShellDebug\PowerShellDebug\bin\Debug\ProcessLauncher.exe
+F:\Experiments\PowerShellDebug\PowerShellDebug\bin\Debug\ProcessLauncher.pdb
+F:\Experiments\PowerShellDebug\PowerShellDebug\obj\Debug\ProcessLauncher.exe
+F:\Experiments\PowerShellDebug\PowerShellDebug\obj\Debug\ProcessLauncher.pdb
+F:\Experiments\ProcessLauncher\ProcessLauncher\bin\Debug\ProcessLauncher.exe.config
+F:\Experiments\ProcessLauncher\ProcessLauncher\obj\Debug\ProcessLauncher.exe
+F:\Experiments\ProcessLauncher\ProcessLauncher\obj\Debug\ProcessLauncher.pdb
+F:\Experiments\ProcessLauncher\ProcessLauncher\bin\Debug\ProcessLauncher.exe
+F:\Experiments\ProcessLauncher\ProcessLauncher\bin\Debug\ProcessLauncher.pdb
+F:\Experiments\ProcessLauncher\ProcessLauncher\obj\Debug\ProcessLauncher.csprojResolveAssemblyReference.cache

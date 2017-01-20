@@ -1,0 +1,6 @@
+F:\Experiments\PowerShellDebug\PowerShellDebug\bin\Debug\PowerShellDebug.exe.config
+F:\Experiments\PowerShellDebug\PowerShellDebug\bin\Debug\PowerShellDebug.exe
+F:\Experiments\PowerShellDebug\PowerShellDebug\bin\Debug\PowerShellDebug.pdb
+F:\Experiments\PowerShellDebug\PowerShellDebug\obj\Debug\PowerShellDebug.csprojResolveAssemblyReference.cache
+F:\Experiments\PowerShellDebug\PowerShellDebug\obj\Debug\PowerShellDebug.exe
+F:\Experiments\PowerShellDebug\PowerShellDebug\obj\Debug\PowerShellDebug.pdb
